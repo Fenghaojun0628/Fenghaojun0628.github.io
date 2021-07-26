@@ -1,14 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>test</title>
-    <url>/2021/07/03/test/</url>
-    <content><![CDATA[<figure class="highlight py"><figcaption><span>test</span></figcaption><table><tr><td class="code"><pre><span class="line"><span class="built_in">print</span>(<span class="string">&#x27;hello world!!!&#x27;</span>)</span><br><span class="line"><span class="keyword">for</span> i <span class="keyword">in</span> <span class="built_in">range</span>(<span class="number">5</span>):</span><br><span class="line">    i++</span><br><span class="line"><span class="built_in">print</span>(i)</span><br></pre></td></tr></table></figure>]]></content>
-      <tags>
-        <tag>test</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>hello from Fenghaojun</title>
     <url>/2021/07/01/hello-from-Fenghaojun/</url>
     <content><![CDATA[<blockquote>
@@ -42,5 +34,13 @@
 
 <p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>
 ]]></content>
+  </entry>
+  <entry>
+    <title>test</title>
+    <url>/2021/07/03/test/</url>
+    <content><![CDATA[<figure class="highlight py"><figcaption><span>test</span></figcaption><table><tr><td class="code"><pre><span class="line"><span class="built_in">print</span>(<span class="string">&#x27;hello world!!!&#x27;</span>)</span><br><span class="line"><span class="keyword">for</span> i <span class="keyword">in</span> <span class="built_in">range</span>(<span class="number">5</span>):</span><br><span class="line">    i++</span><br><span class="line"><span class="built_in">print</span>(i)</span><br></pre></td></tr></table></figure>]]></content>
+      <tags>
+        <tag>test</tag>
+      </tags>
   </entry>
 </search>
